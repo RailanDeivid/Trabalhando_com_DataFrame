@@ -1,2 +1,2 @@
-virtual/
 .ipynb_checkpoints/
+virtual/
